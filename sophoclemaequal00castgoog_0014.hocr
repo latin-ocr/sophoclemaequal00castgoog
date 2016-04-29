@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sophoclemaequal00castgoog_0014.png"; bbox 0 0 3216 5408; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 419 1608 1373 1702">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 419 1608 1373 1702">
+     <span class='ocr_line' id='line_1_1' title="bbox 419 1608 1373 1702; baseline -0.006 -18"><span class='ocrx_word' id='word_1_1' title='bbox 419 1614 612 1688; x_wconf 90' lang='lat' dir='ltr'>OPTIMO</span> <span class='ocrx_word' id='word_1_2' title='bbox 634 1611 1095 1702; x_wconf 90' lang='lat' dir='ltr'>ERUDITISSIMOQUE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1118 1608 1373 1681; x_wconf 85' lang='lat' dir='ltr'>MAGISTRO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 726 1905 1057 2007">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 726 1905 1057 2007">
+     <span class='ocr_line' id='line_1_2' title="bbox 726 1905 1057 2007; baseline -0.003 -26"><span class='ocrx_word' id='word_1_4' title='bbox 726 1906 859 2007; x_wconf 76' lang='grc' dir='ltr'>ωιιο</span> <span class='ocrx_word' id='word_1_5' title='bbox 888 1905 1057 1982; x_wconf 72' lang='lat' dir='ltr'>omno</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 482 2393 1168 2485">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 482 2393 1168 2485">
+     <span class='ocr_line' id='line_1_3' title="bbox 482 2393 1168 2485; baseline 0.001 -22"><span class='ocrx_word' id='word_1_6' title='bbox 482 2393 485 2397; x_wconf 83' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_7' title='bbox 630 2409 950 2485; x_wconf 21' lang='lat' dir='ltr'>GRATl-ANIMI</span> <span class='ocrx_word' id='word_1_8' title='bbox 980 2409 1168 2466; x_wconf 78' lang='lat' dir='ltr'>PIGNUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1176 3671 1497 3760">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1176 3671 1497 3760">
+     <span class='ocr_line' id='line_1_4' title="bbox 1176 3671 1497 3760; baseline 0.012 -5"><span class='ocrx_word' id='word_1_9' title='bbox 1176 3705 1205 3755; x_wconf 70' lang='lat' dir='ltr'>F.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1224 3705 1382 3760; x_wconf 70' lang='lat' dir='ltr'>oAsffls.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1492 3671 1497 3682; x_wconf 51' lang='lat'>⁸</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1612 5408">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1612 5408">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1612 5408; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1612 5408; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
